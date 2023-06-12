@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>vdes</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>vde.Version</version-class>
+		<version-uid>1.0-SNAPSHOT</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>vde.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>vde.</value>
+	</library-property>
+	-->
+</zk>
